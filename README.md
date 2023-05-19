@@ -7,7 +7,7 @@ I am a passionate software developer always looking for the most efficient solut
 I'm currently working on various projects that explore the intersection of scalable systems and cutting-edge technologies. Check out my repositories to learn more!
 
 - **🌱 Currently Learning:**
-I'm always eager to expand my knowledge and stay up-to-date with the latest advancements in the field. Currently, I'm focused on enhancing my skills in cloud computing and event drive systems.
+I'm always eager to expand my knowledge and stay up-to-date with the latest advancements in the field. Currently, I'm focused on enhancing my skills in cloud computing, big data and event drive systems.
 
 - **👯 Looking to Collaborate:**
 I'm open to collaborating on interesting projects related to distributed systems, parallel computing, data science, and deep learning. If you have any exciting opportunities, feel free to reach out!
