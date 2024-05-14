@@ -17,7 +17,7 @@ I'm open to collaborating on interesting projects related to distributed systems
 
   You can reach out to me through the following channels:
   * Website: [atullal.xyz](https://atullal.xyz/)
-  * Email: [atul@atullal.xyz](mailto:atul@atullal.xyz)
+  * Email: [atul@atullal.xyz](mailto:atul.lal123@gmail.com)
   * LinkedIn: [Atul Lal](https://www.linkedin.com/in/atullal123)
 
 - **😄 Fun Fact:**
